@@ -1,0 +1,46 @@
+[Adblock Plus 2.0]
+! Checksum: to8ziVuJQ46b2nX7I+uEZA
+! [Regras de exceção]/whitelist
+@@||sgi.portalcorporativo.serpro^$document
+@@||feed.webphp.com.br^$document
+@@||primefaces.org^$document
+@@||sketchingwithcss.com^$document
+@@||db8com.com.br^$document
+@@||edx.org^$document
+@@||giulianaflores.com.br^$document
+@@||viajandoparaorlando.com^$document
+@@||hertz.com^$document
+! [Regras de bloqueio de propaganda]/blocking
+||baifendian.com^
+||10.30.0.116^
+||translate.googleapis.com/translate_static/js/element/hrs.swf
+||autoracing.com.br/wp-content/themes/autoracing/img/alianzSelo.jpg
+||autoracing.com.br/wp-content/uploads/2013/10/background_alianz-Dias-Normais-3.png
+! [Regras de ocultamento de elementos]/elemhide
+autoracing.com.br##.banners
+autoracing.com.br##.relogioTagHeuer
+globo.com##.glb-bloco.shopping-horizontal
+globo.com##.widget.widget-shopping
+uol.com.br##.links-patrocinados
+uol.com.br##.publicidade-full-banner
+uol.com.br##.publicidade
+uol.com.br##.mod-publieditorial.pg-bordercolor8.composto.mod
+uol.com.br##.uolCursos.modulo-publicidade.pg-bordercolor8
+uol.com.br##.shoppingUol.modulo-publicidade.pg-bordercolor8
+uol.com.br###banner-200x446-6
+uol.com.br###banner-200x446-6-Area
+uol.com.br##.corpoEsquerdaEcommerce.ofertasDoDia
+uol.com.br###banner-142x222-1
+uol.com.br###banner-142x222-1-Area
+uol.com.br##.corpoEsquerdaEcommerce
+uol.com.br###banner-200x446-9
+uol.com.br###banner-200x446-9-Area
+uol.com.br##.box.box-produtos
+uol.com.br##.horizontalFixo.fixoProdutos.horizontalFixoShop
+uol.com.br##.horizontalFixo.fixoProdutos
+uol.com.br###moduloBanner728x90
+uol.com.br###banner-120x107-1
+uol.com.br###banner-120x107-1-Area
+uol.com.br##.moduloHorizontal.moduloHorizontalBanners.bg4
+uol.com.br###moduloHorizontalTVUOL
+carros.uol.com.br##.mod.composto
