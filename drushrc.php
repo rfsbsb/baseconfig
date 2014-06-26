@@ -324,7 +324,7 @@ $options['self-update'] = FALSE;
 # $command_specific['pm-updatecode'] = array('notes' => TRUE);
 
 // Set a predetermined username and password when using site-install.
-$command_specific['site-install'] = array('account-name' => 'admin', 'account-pass' => '173254');
+$command_specific['site-install'] = array('account-name' => 'admin', 'account-pass' => 'admin');
 
 /**
  * List of Drush commands or aliases that should override built-in shell
