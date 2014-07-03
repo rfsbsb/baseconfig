@@ -1,7 +1,6 @@
 [Adblock Plus 2.0]
 ! Checksum: PKQWzRCXLwTIod9xE+deBA
 ! [Regras de exceção]/whitelist
-@@||sgi.portalcorporativo.serpro^$document
 @@||feed.webphp.com.br^$document
 @@||primefaces.org^$document
 @@||sketchingwithcss.com^$document
