@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: to8ziVuJQ46b2nX7I+uEZA
+! Checksum: PKQWzRCXLwTIod9xE+deBA
 ! [Regras de exceção]/whitelist
 @@||sgi.portalcorporativo.serpro^$document
 @@||feed.webphp.com.br^$document
@@ -10,6 +10,14 @@
 @@||giulianaflores.com.br^$document
 @@||viajandoparaorlando.com^$document
 @@||hertz.com^$document
+@@||digg.com^$document
+@@||abduzeedo.com^$document
+@@||localhost^$document
+@@||127.0.0.1^$document
+@@||bbc.co.uk^$document
+@@||tam.com.br^$document
+@@||appleid.apple.com^$document
+@@||dl.rafaelsilva.net^$document
 ! [Regras de bloqueio de propaganda]/blocking
 ||baifendian.com^
 ||10.30.0.116^
@@ -44,3 +52,63 @@ uol.com.br###banner-120x107-1-Area
 uol.com.br##.moduloHorizontal.moduloHorizontalBanners.bg4
 uol.com.br###moduloHorizontalTVUOL
 carros.uol.com.br##.mod.composto
+ultimosegundo.ig.com.br##.wsz.pub-island.fl
+ultimosegundo.ig.com.br###superbanner
+ultimosegundo.ig.com.br###sidetabs
+ig.com.br###superbanner
+ig.com.br##.faixa
+ig.com.br##.pub-island.fl
+ig.com.br###pub-IslandNoticia
+ig.com.br###igAsssistenciaTecnicaBarra
+ig.com.br##.halfPage.fl
+ig.com.br##.SigaOig.gd6.fl
+globo.com##.widget-comentarios
+globo.com##.barra-ferramentas
+globo.com###boxComentarios
+g1.globo.com##.widget-veja-tambem
+g1.globo.com##.lista-de-entidades
+g1.globo.com##.floating-bar
+globo.com##.floating-bar
+uol.com.br##.moduloSemBorda.ultimoModulo
+uol.com.br##.moduloSemBorda
+uol.com.br##.box.box-exclusivo-para-assinantes.exclusivoDoAssinante
+uol.com.br###boxEnquete
+uol.com.br##.testeB
+uol.com.br##.moduloHorizontal.moduloHorizontalEscuroGrupo.bg8
+uol.com.br##[class=" "]
+uol.com.br###custom-banner
+uol.com.br###comentarios
+noticias.uol.com.br##.moduloenquete
+noticias.uol.com.br##.enquete
+uol.com.br##.likebox
+uol.com.br##.socialreader
+uol.com.br##.modinteracao
+uol.com.br##.ferramentas
+uol.com.br###siga
+marcosperes.blogosfera.uol.com.br##.widget_fanpage
+marcosperes.blogosfera.uol.com.br##.widget_siga
+uol.com.br##.banner-300x600.moduloVertical
+uol.com.br##.span4.advertising-column
+folha.uol.com.br##.toolbar
+www1.folha.uol.com.br##.box.siga_a_folha
+www1.folha.uol.com.br##.box.envie_sua_noticia
+uol.com.br##.advertising
+uol.com.br##.ads-livrariadafolha
+uol.com.br###article-comments
+uol.com.br##.item.livraria
+uol.com.br###shopping
+uol.com.br##.classified
+uol.com.br###bookstore-home
+uol.com.br###folha-top
+uol.com.br##.inner-footer
+uol.com.br###footer
+uol.com.br##.barrauol-bg
+uol.com.br##.stamp-painel_do_leitor
+uol.com.br##.livraria-plus
+uol.com.br###guiaUOL
+uol.com.br##.banner-116x41
+uol.com.br###footer-esporte
+uol.com.br###corpoEsquerdaShopFoto
+uol.com.br##.box-assine
+globo.com##.glb-hl-style-informe-publicitario
+globoesporte.globo.com##.header-titulomateria.fixed
