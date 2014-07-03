@@ -1,0 +1,32 @@
+{
+	"installed_packages":
+	[
+		"Auto Semi-Colon",
+		"BracketHighlighter",
+		"CoffeeScript",
+		"Color Highlighter",
+		"CSS Color Converter",
+		"DocBlockr",
+		"Drupal",
+		"Drupal Project Autocomplete",
+		"Drush",
+		"Find Function Definition",
+		"Goto Drupal API",
+		"HTMLBeautify",
+		"HtmlTidy",
+		"LiveStyle",
+		"Package Control",
+		"Rails File Switcher",
+		"Rails Partial",
+		"Rails Related Files",
+		"Ruby on Rails snippets",
+		"Sass",
+		"SASS Build",
+		"SassBeautify",
+		"Simple Rails Navigator",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tag",
+		"TrailingSpaces"
+	]
+}
