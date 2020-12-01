@@ -1,3 +1,17 @@
+[Adblock Plus 2.0]
+! Version: 202012011401
+! Title: Rafael Silva's List
+! Last modified: 01 Dec 2020 14:01 UTC
+! Expires: 10 days (update frequency)
+! Homepage: https://rafaelsilva.net/
+! License: http://creativecommons.org/licenses/by/3.0/
+!
+! Please report any unblocked content or problems by email or in our forums
+! Email: adblock@rafaelsilva.net
+! Forums: https://forums.lanik.us/
+!
+!--------------------------General blocking rules-----------------------------!
+! *** rafaelsilva:fanboy-addon/fanboy_social_general_block.txt ***
 uol.com.br##.mod-horizontal.lista-ecommerce.label-publicidade
 uol.com.br##.mod-hibrido-siga-uol
 uol.com.br##.mod-hibrido-loterias.area-default
