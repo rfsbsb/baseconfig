@@ -105,3 +105,9 @@ uol.com.br##.bannersticky-base
 ||buy.tinypass.com/checkout/offer/show?displayMode=modal&templateId=OTOEXQ21CN1T&offerId=OF414Y7XS5EU&formNameByTermId=%7B%7D&showCloseButton=false&experienceId=EXH3A4CDOUTP&iframeId=offer-0-vKFUe&url=https%3A%2F%2Fwww.businessinsider.com%2Fnew-nintendo-switch-model-larger-battery-2019-7&parentDualScreenLeft=0&parentDualScreenTop=23&parentWidth=1680&parentHeight=945&parentOuterHeight=1027&aid=B6sIXKLiin&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&userProvider=piano_id&userToken=&customCookies=%7B%7D&hasLoginRequiredCallback=true&width=1680&_qh=2230327309
 ||audioglobo.globo.com/widget/widget.html?audio=273201&podcast=702&color=C4170C
 ||js.driftt.com/deploy/assets/index.html
+uol.com.br##.full.moduloBanner.banner
+uol.com.br##.webalert_container
+economia.uol.com.br##.title-sponsor.fixed
+valor.globo.com###detecta-adblock
+br.investing.com##.allow-notifications-popup.type-1
+noticias.uol.com.br##.title-sponsor.fixed
