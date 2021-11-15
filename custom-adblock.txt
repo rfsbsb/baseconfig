@@ -111,3 +111,17 @@ economia.uol.com.br##.title-sponsor.fixed
 valor.globo.com###detecta-adblock
 br.investing.com##.allow-notifications-popup.type-1
 noticias.uol.com.br##.title-sponsor.fixed
+uol.com.br##.cardAd
+uol.com.br##.webalert_container.webalert_show_confirmation_message.webalert_load_onscroll.webalert_container_show
+uol.com.br##.cardVideo__containerPlayer
+uol.com.br###uol-play-1190-340-area-1
+uol.com.br##.cardProducts__list
+uol.com.br##.cardProducts
+uol.com.br##.cardHoroscope
+uol.com.br###esporte-e-negocios-1190-390-area-1
+uol.com.br##.native-shopping-container
+uol.com.br###vitrine-shopping-uol
+uol.com.br###produtos-7-mods-1190-300-area-1
+g1.globo.com##.publicidade
+g1.globo.com##.publicidade.publicidade-banner_slb_topo
+g1.globo.com##.publicidade.publicidade-banner_slb_meio
