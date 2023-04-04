@@ -125,3 +125,21 @@ uol.com.br###produtos-7-mods-1190-300-area-1
 g1.globo.com##.publicidade
 g1.globo.com##.publicidade.publicidade-banner_slb_topo
 g1.globo.com##.publicidade.publicidade-banner_slb_meio
+
+
+! 2022-10-31 https://economia.uol.com.br
+economia.uol.com.br##.model-base-bnr
+
+! 2023-01-10 https://g1.globo.com
+g1.globo.com##.glb-skeleton-box.content-ads__skeleton
+g1.globo.com##.bstn-ad-rail--expanded.bstn-ad-rail
+
+! 2023-04-05 https://www.uol.com.br
+www.uol.com.br##section.section.orderSections__section[data-key=esporte]
+www.uol.com.br##section.section.orderSections__section[data-key=splash]
+www.uol.com.br##section.section.orderSections__section[data-area=publicidade-esporte]
+www.uol.com.br##section.section.orderSections__section[data-key=curinga-bbb-23]
+www.uol.com.br##section.section.orderSections__section[data-area=publicidade-topo-2]
+www.uol.com.br##.headerCardNewsletter__container
+www.uol.com.br##.section__grid__aside__item.cardPrime
+
