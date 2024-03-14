@@ -181,4 +181,28 @@ www.uol.com.br##section.section.orderSections__section[data-key=esporte]
 www.uol.com.br##section.section.orderSections__section[data-key=curinga-bbb-23]
 www.uol.com.br##section.section.orderSections__section[data-key=curinga]
 
+! 2023-07-10 https://br.investing.com
+br.investing.com##.\!z-12.\!justify-center.\!items-center.\!flex.\!bg-\[\#10161ab3\].\!inset-0.\!fixed.notification_notification__ebeCY
+
+! 2023-07-12 https://br.investing.com
+br.investing.com###__next > div:last-child
+
+! 2023-07-27 https://github.com
+github.com##.mr-2.hide-lg.Link.btn-sm.btn
+
+! 2024-01-17 https://www.uol.com.br
+www.uol.com.br##section.section.orderSections__section:nth-of-type(11)
+www.uol.com.br###lr14qg26
+www.uol.com.br###lr14qg5i
+www.uol.com.br##.cardVideo__live.cardVideo.section__grid__aside__item
+www.uol.com.br##[data-area=curinga-guia-de-compras-auto]
+www.uol.com.br##[data-area=publicidade-bottom]
+www.uol.com.br##[data-area=dynad]
+www.uol.com.br##[data-area=publicidade-topo-1]
+www.uol.com.br##[data-area=publicidade-topo-2]
+www.uol.com.br##[data-area=publicidade-splash]
+www.uol.com.br##[data-area=publicidade-esporte]
+www.uol.com.br##[data-area=curinga-bbb-24]
+www.uol.com.br##[data-area=curinga-guia-de-compras-auto]
+
 
