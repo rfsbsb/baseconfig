@@ -206,3 +206,15 @@ www.uol.com.br##[data-area=curinga-bbb-24]
 www.uol.com.br##[data-area=curinga-guia-de-compras-auto]
 
 
+! Aug 16, 2024 https://www.youtube.com
+
+! Jan 6, 2025 https://www.cbc.ca
+www.cbc.ca##.sclt-section1.sectionContainer.pageContentWrap > .sectionContainer-wrapper > .contentAreaWrap.sectionContainer-main
+
+! Jan 20, 2025 https://www.uol.com.br
+www.uol.com.br##.sectionGrid__grid__columnThree__item.cardOffer
+
+! Jan 27, 2025 https://www.youtube.com
+www.youtube.com##.ytd-guide-entry-renderer[title="Shorts"]
+www.youtube.com##.ytd-guide-entry-renderer[title="YouTube Music"]
+
