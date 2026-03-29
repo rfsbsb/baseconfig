@@ -1,0 +1,33 @@
+# PiHole Custom Blocklist
+# Generated from log analysis (Mar 25-29, 2026) — 734K+ queries analyzed
+
+# ── PS5 Console Telemetry ──────────────────────────────────────────────────────
+# ~1,076 + 52 queries/day; pure analytics, does not affect online play
+telemetry-console.api.playstation.com
+smetrics.aem.playstation.com
+
+# ── Crash Reporters ────────────────────────────────────────────────────────────
+# ~331 queries/day; not in HaGeZi Pro
+reports.crashlytics.com
+firebase-settings.crashlytics.com
+
+# ── Bug Tracking ───────────────────────────────────────────────────────────────
+# Bugsnag — used by Alexa mobile app; blocks all *.bugsnag.com subdomains
+bugsnag.com
+
+# ── AWS Diagnostic Beaconing ───────────────────────────────────────────────────
+# ~651+ queries/day across regional subdomains (us-east-1, eu-west-1, ap-*, etc.)
+# Blocking parent domain catches all variants via PiHole wildcard matching
+web.diagnostic.networking.aws.dev
+diagnostic.networking.aws.dev
+
+# ── Captive Portal Beaconing ───────────────────────────────────────────────────
+# ~485 queries/day each; constant probing from Alexa/Echo devices
+mmechocaptiveportal.com
+fos5echocaptiveportal.com
+
+# ── Ad Networks ────────────────────────────────────────────────────────────────
+# ~78 queries/day; programmatic advertising platform
+www15.smartadserver.com
+# ~64 queries/day; video streaming analytics
+conviva.com
