@@ -218,3 +218,72 @@ www.uol.com.br##.sectionGrid__grid__columnThree__item.cardOffer
 www.youtube.com##.ytd-guide-entry-renderer[title="Shorts"]
 www.youtube.com##.ytd-guide-entry-renderer[title="YouTube Music"]
 
+! Apr 1, 2025 https://g1.globo.com
+g1.globo.com##.short-videos-slider.slider
+g1.globo.com##.bastian-page > ._evg > div._evt > .bastian-feed-item > ._he > .post-item > .bstn-item-shape
+
+! Apr 1, 2025 https://www.uol.com.br
+www.uol.com.br##.cardTicket__list
+www.uol.com.br##.section__grid__aside__item.cardTicket
+www.uol.com.br##.sectionGrid__grid__columnThree__item.bannerChannelUol
+www.uol.com.br##.lottery__content
+www.uol.com.br##.sectionGrid__grid__columnThree__item.lottery
+www.uol.com.br##.sectionGrid__grid__columnTwo__item.cardOffer > div > .offerImage
+www.uol.com.br##.cardTeams__closed
+www.uol.com.br##.headerCard.edgeToEdge--xs.cardTeams__headerCard
+
+! May 20, 2025 https://economia.uol.com.br
+economia.uol.com.br##.tp-modal
+economia.uol.com.br##.tp-active.tp-backdrop
+
+! Oct 29, 2025 https://noticias.uol.com.br
+noticias.uol.com.br##.tp-modal
+noticias.uol.com.br##.tp-active.tp-backdrop
+
+! Nov 3, 2025 https://www.washingtonpost.com
+www.washingtonpost.com##.bgColor.padding.dn-hp-xs
+
+! Nov 6, 2025 https://www.youtube.com
+www.youtube.com###flexible-item-buttons > yt-button-view-model.ytd-menu-renderer > .ytd-menu-renderer.style-scope.ytSpecButtonViewModelHost
+
+! Feb 17, 2026 https://g1.globo.com
+g1.globo.com##.regua-apuracao-carnaval__wrapper
+
+! Mar 5, 2026 https://www.youtube.com
+www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+
+! Mar 24, 2026 https://noticias.uol.com.br
+noticias.uol.com.br##.uol-logo > .height-based.solar-image
+
+! Apr 2, 2026 https://g1.globo.com
+g1.globo.com##.bastian-page > ._evg > div._evt > .bastian-feed-item > ._ut > .post-item > .bstn-item-shape
+
+! May 22, 2026 https://www.uol.com.br
+www.uol.com.br##.uol-logo > .height-based.solar-image
+
+! May 22, 2026 https://noticias.uol.com.br
+noticias.uol.com.br##.jupiter-multimodal
+
+! May 26, 2026 https://www.uol.com.br
+www.uol.com.br##.uol-logo > .height-based.solar-image > svg > use
+
+! Jun 2, 2026 https://www.uol.com.br
+www.uol.com.br##.flashFeedCard--image.flashFeedCard--active.flashFeedCard > .flashFeedCard__media > .flashFeedImage > .flashFeedImage__photograph.photograph
+www.uol.com.br##.flashFeedCard--image.flashFeedCard--active.flashFeedCard > .flashFeedCard__media > .flashFeedImage
+www.uol.com.br##.flashFeedCard--image.flashFeedCard--active.flashFeedCard > .flashFeedCard__media
+www.uol.com.br##.section__grid__aside__item.edgeToEdge.flashFeed
+
+! Jun 10, 2026 https://www.uol.com.br
+www.uol.com.br##.cardCupHeaderLinks__container
+www.uol.com.br##.cardCupScore--3col.section__grid__main__highlight__item.cardCupScore
+
+! Jun 15, 2026 https://www.uol.com.br
+www.uol.com.br###mpvx63lf
+
+! Jun 24, 2026 https://www.nytimes.com
+www.nytimes.com##.css-axg1qy
+www.nytimes.com##.css-121nqak
+
+! Jul 21, 2026 https://economia.uol.com.br
+economia.uol.com.br##.jupiter-ads.mb-50-xs.mb-250-lg.mt-50-lg > .py-150.has-bg.main.solar-ads
+
